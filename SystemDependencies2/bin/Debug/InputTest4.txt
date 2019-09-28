@@ -1,0 +1,16 @@
+DEPEND TELNET TCPIP
+INSTALL TCPIPhunuji
+INSTALL TELNET aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+DEPEND FTP TCPIP
+INSTALL FTP
+INSTALL FOO
+INSTALL foo
+LIST
+REMOVE TCPIP
+INSTALL FTP
+REMOVE FOO
+REMOVE FTP
+REMOVE TELNET
+REMOVE TCPIP
+LIST
+END
